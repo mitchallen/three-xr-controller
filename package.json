@@ -1,6 +1,6 @@
 {
   "name": "@mitchallen/three-xr-controller",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "",
   "main": "dist/three-xr-controller.js",
   "module": "dist/three-xr-controller.module.js",
