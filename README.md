@@ -1,4 +1,5 @@
-# @mitchallen/three-xr-controller
+
+@mitchallen/three-xr-controller
 ==
 ThreeJS XR Controller Library
 --
