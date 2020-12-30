@@ -12,7 +12,7 @@ import {
   CONTROLLER_PROFILE,
   OCULUS_GO,
   OCULUS_QUEST,
-} from 'https://cdn.jsdelivr.net/npm/@mitchallen/three-xr-controller@0.1.2/dist/three-xr-controller.modern.js';
+} from 'https://cdn.jsdelivr.net/npm/@mitchallen/three-xr-controller@0.1.3/dist/three-xr-controller.modern.js';
 // } from '../../dist/three-xr-controller.modern.js'
 
 import { ShapeFactory } from './shape.js';

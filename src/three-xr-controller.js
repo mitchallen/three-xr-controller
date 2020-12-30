@@ -53,7 +53,6 @@ export class XRCONTROLLER {
     }
 
     let controllers = [];
-
     let c0 = xr.getController(0);
     let c1 = xr.getController(1);
 
