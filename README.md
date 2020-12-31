@@ -28,7 +28,7 @@ ThreeJS XR Controller Library
 ```js
 import {
   XRCONTROLLER,
-} from 'https://cdn.jsdelivr.net/npm/@mitchallen/three-xr-controller@0.1.3/dist/three-xr-controller.modern.js'
+} from 'https://cdn.jsdelivr.net/npm/@mitchallen/three-xr-controller@0.1.4/dist/three-xr-controller.modern.js'
 ```
 
 * * *
@@ -37,17 +37,27 @@ import {
 
 See the repo examples folder.
 
-# Live demos
+# Video Demo
 
-To see live demos using this package, browse to:
+A video of the example code, recorded on an Oculus Quest 2 can be found here:
+
+* https://www.youtube.com/watch?v=hD2eemFEOMs
+
+# Live VR demos
+
+To see live VR demos using this package, browse to:
 
 * https://vrmitch.com
+* https://vrmitch.com/demo/threejs-quest-thumbstick-vr/src/ 
+  * Oculus Quest Thumbstick Demo based on the project in the repo **examples/demo-controller-vr** folder
+* The demo is also listed here:
+  * https://vrmitch.com/demo/
 
 If you browse to this site in your VR headset you can click the **Enter VR** button.
 
-This code has been tested on:
+This package has been tested on:
 
-* Oculus Go
+* Oculus Go - the current demo only works on the Quest
 * Oculus Quest 2
 
 * * *
